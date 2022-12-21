@@ -166,10 +166,7 @@ autoclean = []
 # Images
 START_IMG_URL = getenv("START_IMG_URL", None)
 
-PING_IMG_URL = getenv(
-    "PING_IMG_URL",
-    "assets/Ping.jpeg",
-)
+PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/5de47009aaf093ef8012a.jpg")
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
